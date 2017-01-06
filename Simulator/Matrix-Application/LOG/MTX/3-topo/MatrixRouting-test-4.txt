@@ -1,0 +1,1221 @@
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (48): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (70): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (82): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (74): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (81): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (56): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (37): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (84): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (28): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (48): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (28): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (39): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (10): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (39): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (68): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (58): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (77): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (58): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (16): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (80): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (35): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (16): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (58): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (42): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (77): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (70): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (57): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (58): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (50): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (76): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (50): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (63): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (66): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (37): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (68): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (86): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (50): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (56): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (50): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (28): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (41): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (23): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (24): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (47): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (39): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (8): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (70): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (90): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (42): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (8): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (76): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (77): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (94): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (5): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (59): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (86): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (77): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (3): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (10): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (46): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (33): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (32): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (48): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (10): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (64): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (67): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (66): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (66): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (70): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (45): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (35): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (8): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (65): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (49): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (26): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (86): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (87): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (88): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK,table downwards new entry
+DEBUG (77): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (100): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (58): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (8): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (64): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (28): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (79): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (56): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (48): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (70): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (35): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (52): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (11): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$tableUpdateEntry_Downwards OK, updated table downwards entry
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 12307 etx: 12308
+DEBUG (87): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 1443 etx: 1444
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 18460 etx: 6154
+DEBUG (35): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 17843 etx: 5537
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 23074 etx: 4615
+DEBUG (64): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 22611 etx: 4152
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 12804 etx: 498
+DEBUG (26): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 22194 etx: 3735
+DEBUG (82): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 1297 etx: 1298
+DEBUG (87): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 11073 etx: 9631
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 23074 etx: 4615
+DEBUG (45): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 183 etx: 184
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 13799 etx: 996
+DEBUG (10): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 20139 etx: 1680
+DEBUG (88): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 13698 etx: 895
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 14296 etx: 498
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 23585 etx: 512
+DEBUG (24): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 19970 etx: 1511
+DEBUG (10): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 21818 etx: 1680
+DEBUG (81): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 163 etx: 164
+DEBUG (45): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 366 etx: 184
+DEBUG (23): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 21649 etx: 1511
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 15291 etx: 996
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 31789 etx: 8205
+DEBUG (74): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 346 etx: 164
+DEBUG (45): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 610 etx: 245
+DEBUG (24): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 19970 etx: 1511
+DEBUG (63): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 15190 etx: 895
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 16784 etx: 1494
+DEBUG (90): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 511 etx: 146
+DEBUG (45): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 1161 etx: 552
+DEBUG (28): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 30475 etx: 6891
+DEBUG (42): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 15961 etx: 671
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 32300 etx: 512
+DEBUG (79): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 17281 etx: 498
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 33324 etx: 1025
+DEBUG (42): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 16631 etx: 671
+DEBUG (65): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 27877 etx: 4293
+DEBUG (28): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 30966 etx: 492
+DEBUG (90): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 583 etx: 73
+DEBUG (46): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 732 etx: 123
+DEBUG (74): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 346 etx: 164
+DEBUG (84): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 33220 etx: 921
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 48709 etx: 15386
+DEBUG (32): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 25515 etx: 1931
+DEBUG (65): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 28830 etx: 954
+DEBUG (46): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 792 etx: 61
+DEBUG (37): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 25321 etx: 1737
+DEBUG (32): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 26479 etx: 965
+DEBUG (11): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 33800 etx: 477
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 58965 etx: 10257
+DEBUG (47): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 26381 etx: 867
+DEBUG (32): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 27443 etx: 965
+DEBUG (11): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 34753 etx: 954
+DEBUG (46): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 1100 etx: 309
+DEBUG (16): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 24365 etx: 781
+DEBUG (94): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 28733 etx: 857
+DEBUG (84): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 33220 etx: 921
+DEBUG (65): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 29783 etx: 954
+DEBUG (57): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 34656 etx: 857
+DEBUG (11): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 38094 etx: 3342
+DEBUG (80): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 27345 etx: 867
+DEBUG (16): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 25145 etx: 781
+DEBUG (50): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 860 etx: 69
+DEBUG (1): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 58965 etx: 10257
+DEBUG (59): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 29686 etx: 857
+DEBUG (56): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 37758 etx: 3006
+DEBUG (11): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 42390 etx: 4297
+DEBUG (50): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 928 etx: 69
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 49193 etx: 485
+DEBUG (58): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 35292 etx: 540
+DEBUG (70): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 41959 etx: 3866
+DEBUG (11): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 47163 etx: 4774
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 53078 etx: 3886
+DEBUG (50): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 996 etx: 69
+DEBUG (58): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 35831 etx: 540
+DEBUG (48): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 49691 etx: 499
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57449 etx: 4372
+DEBUG (100): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 45730 etx: 3341
+DEBUG (48): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 52687 etx: 2997
+DEBUG (77): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 40080 etx: 1987
+DEBUG (50): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 1064 etx: 69
+DEBUG (58): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 36911 etx: 1081
+DEBUG (67): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 42890 etx: 501
+DEBUG (100): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 46683 etx: 954
+DEBUG (49): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 36802 etx: 972
+DEBUG (66): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 39284 etx: 1191
+DEBUG (58): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 37450 etx: 540
+DEBUG (77): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 41569 etx: 1490
+DEBUG (8): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 50229 etx: 539
+DEBUG (3): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 46586 etx: 857
+DEBUG (8): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 52385 etx: 2157
+DEBUG (67): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 43390 etx: 501
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57449 etx: 4372
+DEBUG (68): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 41419 etx: 1340
+DEBUG (86): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 50874 etx: 646
+DEBUG (33): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 54552 etx: 1475
+DEBUG (86): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 51519 etx: 646
+DEBUG (5): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 39164 etx: 1071
+DEBUG (66): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 39878 etx: 595
+DEBUG (31): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 41284 etx: 1205
+DEBUG (41): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 54403 etx: 1326
+DEBUG (33): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 56026 etx: 1475
+DEBUG (86): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 52164 etx: 646
+DEBUG (67): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 43890 etx: 501
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57449 etx: 4372
+DEBUG (67): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 45392 etx: 1503
+DEBUG (76): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 44564 etx: 675
+DEBUG (58): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 37450 etx: 540
+DEBUG (39): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 55214 etx: 663
+DEBUG (33): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 56516 etx: 491
+DEBUG (39): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 55876 etx: 663
+DEBUG (33): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57006 etx: 491
+DEBUG (76): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 45238 etx: 675
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57449 etx: 4372
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57449 etx: 4372
+DEBUG (52): MatrixRoutingEngineP$0$sendDistributionTask$runTask parent: 57933 etx: 485
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, table temporary new entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$updateTemporaryTableTask$runTask
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
+DEBUG (31): MatrixRoutingEngineP$0$tableUpdateEntry_Temporary OK, updated table temporary entry
